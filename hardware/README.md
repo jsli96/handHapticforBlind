@@ -16,8 +16,8 @@
 ![The image of testing device](https://github.com/jsli96/handHapticforBlind/blob/main/hardware/axis_connector.png)
 5. Z probe linkage:
 	- Attach Z probe linkage on the axis connector:
-![The image of testing device](https://github.com/jsli96/handHapticforBlind/blob/main/hardware/z_probbe_link.png)
+![The image of testing device](https://github.com/jsli96/handHapticforBlind/blob/main/hardware/z_probe_link.png)
 6. hand support:
 	- Printed out one of these to rest users hand during the test.
-![The image of testing device](https://github.com/jsli96/handHapticforBlind/blob/main/hardware/hand_support.png)
+![The image of testing device](https://github.com/jsli96/handHapticforBlind/blob/main/hardware/hand_support_image.png)
 
